@@ -20,6 +20,10 @@
 	filter: grayscale(70%);
 }
 
+.black-white {
+	filter: grayscale(100%);
+}
+
 .background-image-container {
 	padding-top: 4%;
 	padding-bottom: 11%;
